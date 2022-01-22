@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: partpart
+    numbered: true
+    chapters:
+    - file: markdown
+    - file: may_error
+  - caption: Name of Part 2
+    numbered: true
+    chapters:
+    - file: notebooks
